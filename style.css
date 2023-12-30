@@ -1,0 +1,15 @@
+.hidden {
+    display:none;
+}
+
+.visible {
+    display:block;
+}
+
+.red {
+    color: red;
+}
+
+.large {
+    font-size: xx-large;
+}
